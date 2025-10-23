@@ -1,1 +1,1 @@
-# recursiveSorting
+recursive sorting (рекурсивне сортування)
